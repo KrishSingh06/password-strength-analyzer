@@ -3,7 +3,7 @@
 A browser-based tool that evaluates the strength of user-entered passwords in real time.
 
 ##  Live Demo
- [Try it here](https://krishsingh06.github.io/password-strength-analyzer)
+[Try it here](https://krishsingh06.github.io/password-strength-analyzer/password-strength-analyzer.html)
 
 ##  Features
 
